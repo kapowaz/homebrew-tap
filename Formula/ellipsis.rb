@@ -1,8 +1,8 @@
 class Ellipsis < Formula
   desc "Automated dotfile management and syncing on top of yadm"
   homepage "https://github.com/kapowaz/ellipsis"
-  url "https://github.com/kapowaz/ellipsis/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "fdd96b3317c3b92746ee90f9e0388b7f47fc589d89e31b418f0e7469a35c3b65"
+  url "https://github.com/kapowaz/ellipsis/archive/refs/tags/v1.0.3.tar.gz"
+  sha256 "dfad2692bbde89776125f42ee06d35cfaab9960bf6798fcb2b8cc6509575e955"
   license "MIT"
 
   depends_on "yadm"
